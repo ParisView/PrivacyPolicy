@@ -1,0 +1,36 @@
+
+
+Read MRZ
+
+Privacy policy
+
+Effective Date: July 17, 2023.
+Last updated: July 17, 2023.
+
+The creator of the Read MRZ application (application) respects privacy of the users and their absolute right to be informed about which of their personal data could be used, collected and/or shared with any third party during operation of the application.
+This is the privacy policy of the application, that explains what personal data is collected, used or disclosed in the course of operation of the application.
+The privacy policy may change from time to time. You will be notified about any material changes by issuing an update to this privacy policy, so please check back periodically to ensure that you are aware of any changes.
+Your continued use of this application will signify your acceptance of these changes.
+
+What personal data is used?
+The application requires images from your device's camera.
+
+Where this personal data is used?
+It is used by the primary functionality of the application.
+
+With whom this personal data is shared?
+These images are used only inside the application on your device and are not shared by the application with anyone or sent anywhere. However, the text, recognized on that images, may be sent to a third party application in the case, when the Read MRZ application is launched from that third party application with intent to perform recognition and return result.
+
+If you find any of the terms of this privacy policy unacceptable, you must stop using the application and uninstall it from your device.
+
+
+Developer of the application:
+Andrey Lapshin,
+Moscow, Russia,
+andrey.lapshin7777@gmail.com
+
+
+Sincerely,
+Andrey Lapshin
+
+
